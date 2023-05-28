@@ -8,4 +8,4 @@ só funcionaram na minha máquina, ou na máquina de qualquer um (talvez) que es
 * RAM: 4GB
 * Teclado da Dell
 * Mouse da Philips
-Basicamente é isso :D
+- Basicamente é isso :D
