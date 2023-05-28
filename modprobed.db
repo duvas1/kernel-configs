@@ -5,7 +5,6 @@ asus_wmi
 at24
 battery
 button
-cdc_acm
 cec
 cfg80211
 coretemp
@@ -69,10 +68,14 @@ snd_hda_codec_analog
 snd_hda_codec_generic
 snd_hda_core
 snd_hda_intel
+snd_hrtimer
 snd_hwdep
 snd_intel_dspcfg
 snd_intel_sdw_acpi
 snd_pcm
+snd_seq
+snd_seq_device
+snd_seq_dummy
 snd_timer
 soundcore
 sparse_keymap
